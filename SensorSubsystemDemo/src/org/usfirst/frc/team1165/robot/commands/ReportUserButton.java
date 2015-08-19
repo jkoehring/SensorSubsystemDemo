@@ -6,7 +6,7 @@ import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team1165.robot.Robot;
 
 /**
- *
+ * Command to report state os User button to Smart Dashboard.
  */
 public class ReportUserButton extends Command
 {

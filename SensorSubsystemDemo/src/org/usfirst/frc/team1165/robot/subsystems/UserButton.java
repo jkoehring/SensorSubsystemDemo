@@ -8,11 +8,10 @@ import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 /**
- *
+ * Subsystem that provides access to the User button on the roboRIO.
  */
 public class UserButton extends Subsystem
 {
-
 	// Put methods for controlling this subsystem
 	// here. Call these from Commands.
 

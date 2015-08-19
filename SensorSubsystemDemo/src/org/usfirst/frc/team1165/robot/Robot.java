@@ -5,7 +5,6 @@ import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
-import org.usfirst.frc.team1165.robot.commands.ReportUserButton;
 import org.usfirst.frc.team1165.robot.subsystems.UserButton;
 
 /**
